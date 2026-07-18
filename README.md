@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:a855f7,100:e9d5ff&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=45"/>
 
@@ -48,16 +48,10 @@ const aditya = {
 <div align="center">
 
 <a href="https://github.com/Myparadox-creator">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Myparadox-creator&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e&ring_color=a855f7&count_private=true&include_all_commits=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Myparadox-creator&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e&ring_color=a855f7&count_private=true&include_all_commits=true" />
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Myparadox-creator&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e&ring_color=a855f7&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Myparadox-creator">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&hide_border=true&background=00000000&stroke=a855f700&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=6c348366" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&hide_border=true&background=00000000&stroke=a855f700&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=6c348366" />
-  </picture>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&hide_border=true&background=00000000&stroke=a855f700&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=6c348366" />
 </a>
 
 </div>
@@ -94,6 +88,20 @@ const aditya = {
 
 <br/><br/>
 
+<!-- ─────────────────── SNAKE ─────────────────── -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/><br/>
+
 <!-- ─────────────────── CONNECT ─────────────────── -->
 
 <div align="center">
@@ -119,4 +127,3 @@ const aditya = {
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,50:a855f7,100:0d1117&height=150&section=footer"/>
-]]>
