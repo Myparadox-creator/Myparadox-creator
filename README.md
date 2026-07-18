@@ -14,18 +14,19 @@
 
 <!-- ─────────────────── ABOUT ─────────────────── -->
 
-```js
-const aditya = {
-    code     : ["C++", "Python", "JavaScript", "TypeScript", "Kotlin", "Java", "Solidity"],
-    build    : ["Full-Stack Apps", "AI Assistants", "Android Apps", "Smart Contracts"],
-    ship     : ["J.A.R.V.I.S — voice-controlled AI assistant",
-                "River Water Level Detection — IoT flood prediction",
-                "Blue Carbon Credits — blockchain sustainability platform",
-                "Klix — Android app"],
-    grind    : ["LeetCode in C++", "Deep Learning", "Backend JS", "Kotlin Android"],
-    motto    : "I don't dream — I ship."
-};
-```
+<div align="center">
+
+**Code** · C++ · Python · JavaScript · TypeScript · Kotlin · Java · Solidity
+
+**Build** · Full-Stack Apps · AI Assistants · Android Apps · Smart Contracts
+
+**Ship** · J.A.R.V.I.S — AI voice assistant · River Water Level Detection — IoT flood prediction · Blue Carbon Credits — blockchain sustainability platform · Klix — Android app
+
+**Grind** · LeetCode in C++ · Deep Learning · Backend JS · Kotlin Android
+
+*"I don't dream — I ship."*
+
+</div>
 
 <br/>
 
