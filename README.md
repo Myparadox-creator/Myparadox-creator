@@ -70,28 +70,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Myparadox-creator/J.A.R.V.I.S-AI_personal_assistant">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Myparadox-creator&repo=J.A.R.V.I.S-AI_personal_assistant&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e" />
-</a>
-<a href="https://github.com/Myparadox-creator/Blockchain_based_blue_carbon_credits_management_system_435">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Myparadox-creator&repo=Blockchain_based_blue_carbon_credits_management_system_435&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e" />
-</a>
-
-<a href="https://github.com/Myparadox-creator/River_water_level_detection011">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Myparadox-creator&repo=River_water_level_detection011&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e" />
-</a>
-<a href="https://github.com/Myparadox-creator/C-_leetcode">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Myparadox-creator&repo=C-_leetcode&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e" />
-</a>
-
-</div>
-
-<br/><br/>
-
----
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/github-snake.svg" />
