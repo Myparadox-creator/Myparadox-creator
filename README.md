@@ -14,7 +14,7 @@
 
 <!-- ─────────────────── ABOUT ─────────────────── -->
 
-<div align="center">
+<div align="left">
 
 **Code** · C++ · Python · JavaScript · TypeScript · Kotlin · Java · Solidity
 
@@ -24,7 +24,6 @@
 
 **Grind** · LeetCode in C++ · Deep Learning · Backend JS · Kotlin Android
 
-*"I don't dream — I ship."*
 
 </div>
 
