@@ -96,3 +96,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,50:a855f7,100:0d1117&height=150&section=footer"/>
 
 ---
+
+---
