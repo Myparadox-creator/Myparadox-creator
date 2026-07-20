@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full-stack+dev+%C2%B7+ai+%26+ml+%C2%B7+blockchain;building+things+that+matter.;i'm+used+to+it..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full-stack+dev+%C2%B7+ai+%26+ml+%C2%B7+blockchain;building+things+that+matter.;Working..." alt="Typing SVG" />
 </a>
 
 </div>
