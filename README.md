@@ -45,17 +45,6 @@
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/Myparadox-creator">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Myparadox-creator&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=c084fc&text_color=8b949e&ring_color=a855f7&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/Myparadox-creator">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&hide_border=true&background=00000000&stroke=a855f700&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=6c348366" />
-</a>
-
-</div>
-
 <br/>
 
 <div align="center">
