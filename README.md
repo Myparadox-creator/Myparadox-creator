@@ -49,6 +49,18 @@
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myparadox-creator&bg_color=00000000&color=a855f7&line=c084fc&point=e9d5ff&area_color=a855f733&area=true&hide_border=true" alt="graph"/>
 
 </div>
