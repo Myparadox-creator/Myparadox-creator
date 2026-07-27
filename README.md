@@ -24,7 +24,6 @@
 
 **Grind** · LeetCode in C++ · Deep Learning · Backend JS · Kotlin Android
 
-
 </div>
 
 <br/>
@@ -49,7 +48,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/Myparadox-creator">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -106,7 +107,3 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,50:a855f7,100:0d1117&height=150&section=footer"/>
-
----
-
----
