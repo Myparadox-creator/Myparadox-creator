@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full-st[...]
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full-st[...]">
 </a>
 
 </div>
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myparadox-creator&bg_color=00000000&color=a855f7&line=c084fc&point=e9d5ff&area_color=a855f733&area=true&hide_bo[...]
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myparadox-creator&bg_color=00000000&color=a855f7&line=c084fc&point=e9d5ff&area_color=a855f733&area=true&hide_bo[...]">
 
 </div>
 
