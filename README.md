@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:a855f7,100:e9d5ff&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&anima[...]" 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:a855f7,100:e9d5ff&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&anima[...]">
 
 <br/>
 
