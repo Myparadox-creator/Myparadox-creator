@@ -84,24 +84,21 @@
 ---
 
 <div align="center">
-
 <a href="mailto:adityaranjanwxd@gmail.com">
-  <img src="https://img.shields.io/badge/adityaranjanwxd@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aditya-ranjan-satapathy-a84120340/">
-  <img src="https://img.shields.io/badge/Aditya%20Ranjan%20Satapathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://img.shields.io/badge/Myparadox--creator-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Myparadox-creator&color=a855f7&style=flat-square&label=visitors" alt="visitors"/>
-
 </div>
+
 
 <br/>
 
