@@ -49,7 +49,7 @@
 <div align="center">
 
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a85[...]" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a85[...]"> 
 </a>
 
 </div>
