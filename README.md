@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:a855f7,100:e9d5ff&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&anima[...]">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:a855f7,100:e9d5ff&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&animation=twinkling">
 
 <br/>
 
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full-st[...]">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full+stack+dev.+%7C+AI%2FML+%7C+Blockchain;Bulding+things+that+matters....;working...">
 </a>
 
 </div>
@@ -49,8 +49,7 @@
 <div align="center">
 
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a85[...]"> 
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a85[...]">
 
 </div>
 
@@ -62,7 +61,7 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myparadox-creator&bg_color=00000000&color=a855f7&line=c084fc&point=e9d5ff&area_color=a855f733&area=true&hide_bo[...]">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myparadox-creator&bg_color=00000000&color=a855f7&line=c084fc&point=e9d5ff&area_color=a855f733&area=true&hide_border=true">
 
 </div>
 
