@@ -86,17 +86,17 @@
 ---
 <p align="center">
   <!-- Discord -->
-  <a href="https://discord.gg/YOUR_INVITE" target="_blank" style="text-decoration:none;">
+  <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/a855f7/discord-logo.png" height="48" alt="Discord" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/aditya-ranjan-satapathy-a84120340/" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/a855f7/linkedin.png" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" style="text-decoration:none;">
+  <a href="mailto:adityaranjanwxd@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/a855f7/gmail.png" height="48" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,12 +106,12 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
+  <a href="https://www.instagram.com/__aditya__0201/?hl=en" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/a855f7/instagram-new.png" height="48" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Twitter / X -->
-  <a href="https://x.com/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
+  <a href="https://x.com/AdityaRanj63937" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/x/a855f7" height="48" alt="Twitter" />
   </a>
 </p>
