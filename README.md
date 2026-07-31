@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=200&section=header&text=HEY%20THERE!&fontSize=36&fontColor=ffffff&animation=twinkle" width="100%" breath="10%" alt="Header Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=200&section=header&text=Myparadox-creator%20//%20Software%20Developer&fontSize=32&fontColor=ffffff" width="100%" alt="Header Wave"/>
 
 <div align="center">
 
