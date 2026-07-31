@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=36&fontColor=ffffff&animation=twinkle" width="100%" breath="10%" alt="Header Wave"/>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:a855f7,100:e9d5ff&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&animation=twinkling">
@@ -99,8 +101,6 @@
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Myparadox-creator&color=a855f7&style=flat-square&label=visitors" alt="visitors"/>
 </div>
-
-
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,50:a855f7,100:0d1117&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=120&section=footer" width="100%" alt="Purple Sea Wave Footer"/>
