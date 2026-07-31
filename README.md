@@ -84,22 +84,35 @@
 <br/><br/>
 
 ---
-
-<div align="center">
-<a href="mailto:adityaranjanwxd@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aditya-ranjan-satapathy-a84120340/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Myparadox-creator">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Myparadox-creator&color=a855f7&style=flat-square&label=visitors" alt="visitors"/>
-</div>
-<br/>
-
+<p align="center">
+  <!-- Discord -->
+  <a href="https://discord.gg/YOUR_INVITE" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/a855f7/discord-logo.png" height="48" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/a855f7/linkedin.png" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/a855f7/gmail.png" height="48" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/Myparadox-creator" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/a855f7/github.png" height="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/a855f7/instagram-new.png" height="48" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Twitter / X -->
+  <a href="https://x.com/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/x/a855f7" height="48" alt="Twitter" />
+  </a>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=120&section=footer" width="100%" alt="Purple Sea Wave Footer"/>
