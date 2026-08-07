@@ -16,6 +16,18 @@
 
 ---
 
+### My ELUSOC 2026 Badges!
+<div align="center">
+<a href="https://www.edulinkup.dev/elusoc/profile/Myparadox-creator">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
+  
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
+  
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
+</a>
+
+---
+
 <div align="left">
 
 **Code** · C++ · Python · JavaScript · TypeScript · Kotlin · Java · Solidity
