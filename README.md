@@ -50,6 +50,10 @@ collaboration: open source · team projects · hackathons
 
 ---
 
+<div align="left">
+  
+## Tech stack ⚙️
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,kotlin,java,solidity,html,css&theme=dark" alt="languages"/>
