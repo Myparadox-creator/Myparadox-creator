@@ -14,9 +14,10 @@
 
 <br/><br/>
 
+### My ELUSOC 2026 Badges!🎖️
+
 ---
 
-### My ELUSOC 2026 Badges!
 <div align="center">
 <a href="https://www.edulinkup.dev/elusoc/profile/Myparadox-creator">
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
@@ -29,13 +30,19 @@
 
 <div align="left">
 
-**Code** · C++ · Python · JavaScript · TypeScript · Kotlin · Java · Solidity
+## About me ✒️
 
-**Build** · Full-Stack Apps · AI Assistants · Android Apps · Smart Contracts
+I'm **Aditya Ranjan Satapathy**, a 3rd-year engineering student at **Gandhi Institute of Excellent Technocrats**. My core interests sit across **software development**, **backend engineering**, **artificial intelligence & machine learning**, and **algorithmic problem solving**. I learn best by building end-to-end systems, writing clean and efficient code, and taking projects from rough concepts to robust software.
 
-**Ship** · J.A.R.V.I.S — AI voice assistant · River Water Level Detection — IoT flood prediction · Blue Carbon Credits — blockchain sustainability platform · Klix — Android app
+I'm also actively exploring the foundations of **DevOps and cloud infrastructure**—containerization, CI/CD automation, system reliability, and the practices that help backend architectures scale smoothly.
 
-**Grind** · LeetCode in C++ · Deep Learning · Backend JS · Kotlin Android
+```text
+student:       3rd Year B.Tech • Gandhi Institute of Excellent Technocrats
+focus:         software development · backend engineering · AI/ML · problem solving
+building:      resilient APIs · intelligent applications · automated workflows
+learning:      system design · distributed backend · MLOps · cloud infrastructure
+collaboration: open source · team projects · hackathons
+```
 
 </div>
 
