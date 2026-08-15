@@ -68,6 +68,8 @@ collaboration: open source · team projects · hackathons
 
 ---
 
+## Stats 📈
+
 <br/>
 
 <div align="center">
@@ -94,6 +96,8 @@ collaboration: open source · team projects · hackathons
 
 ---
 
+## Contribution Snake🐍
+
 <div align="center">
 
 <picture>
@@ -106,6 +110,8 @@ collaboration: open source · team projects · hackathons
 <br/><br/>
 
 ---
+
+## Connect with me 🤝
 <p align="center">
   <!-- Discord -->
   <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration:none;">
