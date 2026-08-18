@@ -107,6 +107,16 @@ collaboration: open source · team projects · hackathons
 
 ---
 
+## Contribution Arcade🕹️
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## Connect with me 🤝
 <p align="center">
   <!-- Discord -->
