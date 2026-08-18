@@ -1,27 +1,44 @@
-name: Generate Snake
+name: Generate Contribution Animations (Snake & Pac-Man)
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # Allows manual run from Actions tab
   workflow_dispatch:
 
-permissions:
-  contents: write
+  # Automatically runs every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Runs on push to main
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - name: Generate Snake
+      # Step 1: Generate Snake Contribution SVGs into dist/
+      - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Myparadox-creator
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      # Step 2: Generate Pac-Man Contribution SVGs into dist/
+      - name: Generate Pac-Man SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # Step 3: Deploy BOTH Snake and Pac-Man files together to the output branch
+      - name: Push all SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
