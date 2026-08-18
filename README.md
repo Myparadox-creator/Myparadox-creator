@@ -61,7 +61,7 @@ collaboration: open source · team projects · hackathons
 | **Backend & Runtimes** | Node.js, Next.js (API routes), Java, Python | <img src="https://skillicons.dev/icons?i=nodejs,nextjs,java,python&theme=dark" height="35" alt="Backend"/> |
 | **AI / Machine Learning** | TensorFlow, Python | <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" height="35" alt="AI/ML"/> |
 | **Mobile & Web3** | Android Studio, Kotlin, Solidity | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,solidity&theme=dark" height="35" alt="Mobile & Web3"/> |
-| **Database & Cloud** | Firebase | <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="35" alt="Database & Cloud"/> |
+| **Database & Cloud** | MySQL, MongoDB, Firebase | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" height="35" alt="Database & Cloud"/> |
 | **DevOps & Version Control** | Docker, Git | <img src="https://skillicons.dev/icons?i=docker,git&theme=dark" height="35" alt="DevOps"/> |
 
 ---
