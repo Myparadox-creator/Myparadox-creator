@@ -52,19 +52,17 @@ collaboration: open source · team projects · hackathons
 
 <div align="left">
   
-## Tech stack ⚙️
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,kotlin,java,solidity,html,css&theme=dark" alt="languages"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,tensorflow,androidstudio,firebase,docker,git&theme=dark" alt="tools"/>
-
-</div>
-
-<br/><br/>
+| Category | Technologies | Icons |
+| :--- | :--- | :--- |
+| **Languages** | C++, Java, Python, JavaScript, TypeScript, Kotlin, Solidity, HTML, CSS | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,kotlin,solidity,html,css&theme=dark" height="35" alt="Languages"/> |
+| **Frontend & UI** | React, Next.js, Tailwind CSS, HTML5, CSS3 | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="35" alt="Frontend"/> |
+| **Backend & Runtimes** | Node.js, Next.js (API routes), Java, Python | <img src="https://skillicons.dev/icons?i=nodejs,nextjs,java,python&theme=dark" height="35" alt="Backend"/> |
+| **AI / Machine Learning** | TensorFlow, Python | <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" height="35" alt="AI/ML"/> |
+| **Mobile & Web3** | Android Studio, Kotlin, Solidity | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,solidity&theme=dark" height="35" alt="Mobile & Web3"/> |
+| **Database & Cloud** | Firebase | <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="35" alt="Database & Cloud"/> |
+| **DevOps & Version Control** | Docker, Git | <img src="https://skillicons.dev/icons?i=docker,git&theme=dark" height="35" alt="DevOps"/> |
 
 ---
 
