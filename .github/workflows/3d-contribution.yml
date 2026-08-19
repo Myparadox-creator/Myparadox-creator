@@ -1,0 +1,35 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  # Allows you to manually trigger it anytime from the Actions tab
+  workflow_dispatch:
+
+  # Automatically runs every day at 18:00 UTC
+  schedule:
+    - cron: "0 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graphs
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D SVG Graphs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push generated 3D SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          if git commit -m "chore: update 3D contribution graph [skip ci]"; then
+            git push origin main
+          fi
