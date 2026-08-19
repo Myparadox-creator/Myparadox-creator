@@ -117,9 +117,7 @@ collaboration: open source · team projects · hackathons
 
 ---
 
-## 🧱 3D Contribution Graph
-
-## 🧱 3D Contribution Graph
+## 3D Contribution Graph🧱
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Myparadox-creator/Myparadox-creator/main/profile-3d-contrib/profile-night-green.svg" alt="3D Green on Dark Contribution Graph" width="100%"/>
