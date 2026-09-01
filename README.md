@@ -85,9 +85,8 @@ collaboration: open source · team projects · hackathons
 <br/>
 
 <div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myparadox-creator&bg_color=00000000&color=a855f7&line=c084fc&point=e9d5ff&area_color=a855f733&area=true&hide_border=true">
-
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myparadox-creator&theme=tokyonight" width="85%" />
 </div>
 
 <br/><br/>
