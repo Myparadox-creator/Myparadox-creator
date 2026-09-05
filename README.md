@@ -131,7 +131,4 @@ collaboration: open source · team projects · hackathons
 
 ---
 
-
-## Connect with me 🤝
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=120&section=footer" width="100%" alt="Purple Sea Wave Footer"/>
