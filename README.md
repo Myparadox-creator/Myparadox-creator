@@ -14,6 +14,21 @@
 
 <br/><br/>
 
+<p align="center">
+  <!-- Discord -->
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/discord-logo.png" height="48" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aditya-ranjan-satapathy-a84120340/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/linkedin.png" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:adityaranjanwxd@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/gmail.png" height="48" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/Myparadox-creator" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/github.png" height="48" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/__aditya__0201/?hl=en" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/instagram-new.png" height="48" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Twitter / X -->
+  <a href="https://x.com/AdityaRanj63937" target="_blank"><img src="https://cdn.simpleicons.org/x/a855f7" height="48" alt="Twitter" /></a>
+</p>
+
 ### My ELUSOC 2026 Badges!🎖️
 
 ---
@@ -118,35 +133,5 @@ collaboration: open source · team projects · hackathons
 
 
 ## Connect with me 🤝
-<p align="center">
-  <!-- Discord -->
-  <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/a855f7/discord-logo.png" height="48" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aditya-ranjan-satapathy-a84120340/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/a855f7/linkedin.png" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Gmail -->
-  <a href="mailto:adityaranjanwxd@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/a855f7/gmail.png" height="48" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/Myparadox-creator" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/a855f7/github.png" height="48" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/__aditya__0201/?hl=en" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/a855f7/instagram-new.png" height="48" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Twitter / X -->
-  <a href="https://x.com/AdityaRanj63937" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/x/a855f7" height="48" alt="Twitter" />
-  </a>
-</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=120&section=footer" width="100%" alt="Purple Sea Wave Footer"/>
