@@ -1,11 +1,8 @@
 name: GitHub Metrics
 
 on:
-  # Schedule updates every 12 hours
   schedule: [{cron: "0 */12 * * *"}]
-  # Allows manual triggers from the Actions tab
   workflow_dispatch:
-  # Run on push to main/master
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -17,27 +14,24 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          # GitHub Personal Access Token (see Step 2)
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: Myparadox-creator
           template: classic
           base: header, repositories
           config_timezone: Asia/Kolkata
           
-          # 1. Isometric 3D Calendar (matches your screenshot)
+          # Isometric 3D Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 2. Commit Streaks & Daily Habits (matches your screenshot)
+          # Commit Streaks & Daily Habits
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: no
           
-          # 3. Languages
+          # Languages
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
