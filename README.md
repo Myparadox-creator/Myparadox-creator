@@ -100,8 +100,8 @@ collaboration: open source · team projects · hackathons
 <br/>
 
 <div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myparadox-creator&theme=tokyonight" width="85%" />
+  <!-- Custom Cyber-Crimson Profile Details Card with Glowing Red Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myparadox-creator&theme=tokyonight&chart_color=e11d48&border_color=27272a&bg_color=090a0f&title_color=ffffff&icon_color=f43f5e&text_color=94a3b8" width="85%" alt="Profile Summary Card" />
 </div>
 
 <br/><br/>
