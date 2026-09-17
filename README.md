@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=200&section=header&text=%20Software%20Developer&fontSize=32&fontColor=ffffff" width="100%" alt="Header Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:8b0000,100:b91c1c&height=200&section=header&text=%20Software%20Developer&fontSize=32&fontColor=ffffff" width="100%" alt="Header Wave"/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:a855f7,100:e9d5ff&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&animation=twinkling">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:8b0000,100:b91c1c&height=200&section=header&text=ADITYA%20R.%20SATAPATHY&fontSize=40&fontColor=ffffff&animation=twinkling">
 
 <br/>
 
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full+stack+dev.+%7C+AI%2FML+%7C+Blockchain;Bulding+things+that+matters....;working...">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=2000&color=B91C1C&center=true&vCenter=true&repeat=true&width=500&height=45&lines=full+stack+dev.+%7C+AI%2FML+%7C+Blockchain;Building+things+that+matters....;working...">
 </a>
 
 </div>
@@ -16,17 +16,17 @@
 
 <p align="center">
   <!-- Discord -->
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/discord-logo.png" height="48" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.icons8.com/ios-filled/50/8b0000/discord-logo.png" height="48" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aditya-ranjan-satapathy-a84120340/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/linkedin.png" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditya-ranjan-satapathy-a84120340/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/8b0000/linkedin.png" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Gmail -->
-  <a href="mailto:adityaranjanwxd@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/gmail.png" height="48" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adityaranjanwxd@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/8b0000/gmail.png" height="48" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- GitHub -->
-  <a href="https://github.com/Myparadox-creator" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/github.png" height="48" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Myparadox-creator" target="_blank"><img src="https://img.icons8.com/ios-filled/50/8b0000/github.png" height="48" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/__aditya__0201/?hl=en" target="_blank"><img src="https://img.icons8.com/ios-filled/50/a855f7/instagram-new.png" height="48" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/__aditya__0201/?hl=en" target="_blank"><img src="https://img.icons8.com/ios-filled/50/8b0000/instagram-new.png" height="48" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Twitter / X -->
-  <a href="https://x.com/AdityaRanj63937" target="_blank"><img src="https://cdn.simpleicons.org/x/a855f7" height="48" alt="Twitter" /></a>
+  <a href="https://x.com/AdityaRanj63937" target="_blank"><img src="https://cdn.simpleicons.org/x/8b0000" height="48" alt="Twitter" /></a>
 </p>
 
 ### My ELUSOC 2026 Badges!🎖️
@@ -88,7 +88,7 @@ collaboration: open source · team projects · hackathons
 <div align="center">
 
 <a href="https://github.com/Myparadox-creator">
-  <img src="https://streak-stats.demolab.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=a855f7&ring=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=b91c1c&ring=8b0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b91c1c" alt="GitHub Streak Stats" />
 </a>
 
 </div>
@@ -131,4 +131,4 @@ collaboration: open source · team projects · hackathons
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:c084fc&height=120&section=footer" width="100%" alt="Purple Sea Wave Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:8b0000,100:b91c1c&height=120&section=footer" width="100%" alt="Blood Red Sea Wave Footer"/>
