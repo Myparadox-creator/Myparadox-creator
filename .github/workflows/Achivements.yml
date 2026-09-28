@@ -1,0 +1,96 @@
+name: Sync GitHub Achievements
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Scrape Achievements & Update README
+        run: |
+          python - << 'EOF'
+          import re
+          import requests
+          from bs4 import BeautifulSoup
+
+          username = "Myparadox-creator"
+          url = f"https://github.com/{username}?tab=achievements"
+          headers = {"User-Agent": "Mozilla/5.0"}
+          resp = requests.get(url, headers=headers)
+
+          if resp.status_code != 200:
+              print(f"Failed to fetch achievements, status code: {resp.status_code}")
+              exit(0)
+
+          soup = BeautifulSoup(resp.text, "html.parser")
+          achievements = []
+
+          # Extract each achievement badge from public profile
+          for card in soup.select("div.col-12.col-md-4.mb-3, div.d-flex.flex-column"):
+              img = card.find("img")
+              title = card.find(["h3", "strong", "span", "b"])
+              desc = card.find(["p", "small", "div"])
+              
+              if img and img.get("src") and "achievements" in img.get("src", ""):
+                  achievements.append({
+                      "img": img["src"],
+                      "title": title.text.strip() if title else "Achievement",
+                      "desc": desc.text.strip() if desc else ""
+                  })
+
+          if not achievements:
+              print("No new achievements parsed. Keeping existing.")
+              exit(0)
+
+          # Generate HTML Table
+          rows = "<table>\n  <tr>\n"
+          for a in achievements[:6]:  # Show top 6
+              rows += f'    <td align="center" width="220">\n'
+              rows += f'      <a href="https://github.com/{username}?tab=achievements">\n'
+              rows += f'        <img src="{a["img"]}" width="65" alt="{a["title"]}" />\n'
+              rows += f'      </a><br />\n'
+              rows += f'      <b>{a["title"]}</b><br />\n'
+              rows += f'      <sub>{a["desc"]}</sub>\n'
+              rows += f'    </td>\n'
+          rows += "  </tr>\n</table>"
+
+          # Replace between comments in README.md
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r"(<!-- ACHIEVEMENTS:START -->)(.*?)(<!-- ACHIEVEMENTS:END -->)"
+          new_content = re.sub(pattern, f"\\1\n{rows}\n\\3", content, flags=re.DOTALL)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+          EOF
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No achievement changes detected."
+          else
+            git commit -m "chore: auto-sync GitHub achievements [skip ci]"
+            git push origin main
+          fi
