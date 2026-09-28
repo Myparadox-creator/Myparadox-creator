@@ -65,6 +65,51 @@ collaboration: open source · team projects · hackathons
 
 ---
 
+### Earned GitHub achievements
+
+<!-- ACHIEVEMENTS:START -->
+<table align="center">
+  <tr>
+    <td align="center" width="230" style="padding: 16px;">
+      <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark" />
+      </a>
+      <br /><br />
+      <b>Pull Shark</b>
+      <br />
+      <sub>Merged pull requests</sub>
+    </td>
+    <td align="center" width="230" style="padding: 16px;">
+      <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" />
+      </a>
+      <br /><br />
+      <b>Quickdraw</b>
+      <br />
+      <sub>Closed an issue or PR quickly</sub>
+       <td align="center" width="230" style="padding: 16px;">
+      <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="70" alt="YOLO" />
+      </a>
+      <br /><br />
+      <b>YOLO</b>
+      <br />
+      <sub>Merged a PR without a review</sub>
+    </td>
+  </tr>
+</table>
+<!-- ACHIEVEMENTS:END -->
+
+<p align="center">
+  <sub>Automatically verified from the public GitHub achievements profile.</sub>
+</p>
+
+<div align="right">
+  <a href="#readme">↑ Back to top</a>
+</div>
+
+---
+
 <div align="left">
   
 ## 🛠️ Tech Stack
