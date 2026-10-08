@@ -70,7 +70,7 @@ collaboration: open source · team projects · hackathons
 <!-- ACHIEVEMENTS:START -->
 <table align="center">
   <tr>
-    <td align="center" width="180" style="padding: 16px;">
+    <td align="center" width="160" style="padding: 16px;">
       <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
         <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark" />
       </a>
@@ -79,7 +79,7 @@ collaboration: open source · team projects · hackathons
       <br />
       <sub>Merged pull requests</sub>
     </td>
-    <td align="center" width="180" style="padding: 16px;">
+    <td align="center" width="160" style="padding: 16px;">
       <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
         <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" />
       </a>
@@ -88,7 +88,7 @@ collaboration: open source · team projects · hackathons
       <br />
       <sub>Closed an issue or PR quickly</sub>
     </td>
-    <td align="center" width="180" style="padding: 16px;">
+    <td align="center" width="160" style="padding: 16px;">
       <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
         <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="70" alt="YOLO" />
       </a>
@@ -97,7 +97,7 @@ collaboration: open source · team projects · hackathons
       <br />
       <sub>Merged a PR without a review</sub>
     </td>
-    <td align="center" width="180" style="padding: 16px;">
+    <td align="center" width="160" style="padding: 16px;">
       <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
         <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="70" alt="Pair Extraordinaire" />
       </a>
@@ -105,6 +105,15 @@ collaboration: open source · team projects · hackathons
       <b>Pair Extraordinaire</b>
       <br />
       <sub>Co-authored merged commits</sub>
+    </td>
+    <td align="center" width="160" style="padding: 16px;">
+      <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="70" alt="Galaxy Brain" />
+      </a>
+      <br /><br />
+      <b>Galaxy Brain</b>
+      <br />
+      <sub>Answered discussions</sub>
     </td>
   </tr>
 </table>
