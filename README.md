@@ -145,15 +145,33 @@ collaboration: open source · team projects · hackathons
 
 ---
 
-## Stats 📈
+## 📈 The Numbers
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/Myparadox-creator">
-  <img src="https://streak-stats.demolab.com/?user=Myparadox-creator&theme=dark&background=00000000&fire=b91c1c&ring=8b0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b91c1c" alt="GitHub Streak Stats" />
-</a>
+  <!-- Top Hero: Terminal Telemetry Card -->
+  <a href="https://github.com/Myparadox-creator">
+    <img src="./assets/card-terminal.svg" width="100%" alt="Aditya Ranjan Satapathy Terminal Spec Card" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Side-by-Side: Crimson GitHub Stats + Most Used Languages -->
+  <a href="https://github.com/Myparadox-creator">
+    <img src="https://github-readme-stats.vercel.app/api?username=Myparadox-creator&show_icons=true&hide_border=true&rank_icon=github&bg_color=090a0f&title_color=ef4444&icon_color=b91c1c&text_color=e2e8f0&ring_color=ef4444&card_width=420" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Myparadox-creator">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myparadox-creator&layout=compact&langs_count=8&hide=html,css,scss&hide_border=true&bg_color=090a0f&title_color=ef4444&text_color=e2e8f0&card_width=330" height="180" alt="Most Used Languages" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Center: Crimson Streak Stats Card -->
+  <a href="https://github.com/Myparadox-creator">
+    <img src="https://streak-stats.demolab.com?user=Myparadox-creator&hide_border=true&background=090a0f&stroke=8b000033&ring=b91c1c&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=94a3b8&dates=94a3b8" height="180" alt="GitHub Streak" />
+  </a>
 
 </div>
 
