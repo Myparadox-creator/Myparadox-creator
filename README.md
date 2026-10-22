@@ -72,12 +72,12 @@ collaboration: open source · team projects · hackathons
   <tr>
     <td align="center" width="160" style="padding: 16px;">
       <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark" />
+        <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="70" alt="Pull Shark Bronze" />
       </a>
       <br /><br />
-      <b>Pull Shark</b>
+      <b>Pull Shark · x2</b>
       <br />
-      <sub>Merged pull requests</sub>
+      <sub>Bronze tier · Merged PRs</sub>
     </td>
     <td align="center" width="160" style="padding: 16px;">
       <a href="https://github.com/Myparadox-creator?tab=achievements" target="_blank">
@@ -118,6 +118,7 @@ collaboration: open source · team projects · hackathons
   </tr>
 </table>
 <!-- ACHIEVEMENTS:END -->
+
 
 <p align="center">
   <sub>Automatically verified from the public GitHub achievements profile.</sub>
