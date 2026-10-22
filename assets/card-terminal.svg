@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="580" viewBox="0 0 1180 580" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="14px" role="img" aria-label="Terminal profile card">
+  <style>
+    .header   { fill: #ff4d4d; font-weight: bold; font-size: 16px; }
+    .key      { fill: #ef4444; font-weight: 600; }
+    .value    { fill: #f1f5f9; }
+    .dots     { fill: #450a0a; }
+    .divider  { fill: #7f1d1d; }
+    .ascii    { fill: #dc2626; }
+    text, tspan { white-space: pre; }
+  </style>
+
+  <!-- Card Background -->
+  <rect width="1180" height="580" fill="#090a0f" rx="16" stroke="#b91c1c" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- Left Column: Cyber Symbol ASCII -->
+  <g transform="translate(45, 45)">
+    <text x="0" y="0" class="ascii" font-size="13px" opacity="0.9" xml:space="preserve">
+      <tspan x="0" y="30">               /$$$$$$  /$$$$$$$   /$$$$$$ </tspan>
+      <tspan x="0" y="46">              /$$__  $$| $$__  $$ /$$__  $$</tspan>
+      <tspan x="0" y="62">     /$$$$$$ | $$  \ $$| $$  \ $$| $$  \__/</tspan>
+      <tspan x="0" y="78">    |____  $$| $$$$$$$$| $$$$$$$/|  $$$$$$ </tspan>
+      <tspan x="0" y="94">     /$$$$$$$| $$__  $$| $$__  $$ \____  $$</tspan>
+      <tspan x="0" y="110">    /$$__  $$| $$  | $$| $$  \ $$ /$$  \ $$</tspan>
+      <tspan x="0" y="126">   |  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$/</tspan>
+      <tspan x="0" y="142">    \_______/|__/  |__/|__/  |__/ \______/ </tspan>
+      <tspan x="0" y="165">    ---------------------------------------</tspan>
+      <tspan x="0" y="185">          [ SYSTEM : RED PROTOCOL ]        </tspan>
+      <tspan x="0" y="205">          [ CORE   : NEURAL BACKEND ]      </tspan>
+      <tspan x="0" y="225">          [ NODE   : ONLINE / VERIFIED ]   </tspan>
+      <tspan x="0" y="245">    ---------------------------------------</tspan>
+      <tspan x="0" y="275">                .::.        .::.           </tspan>
+      <tspan x="0" y="295">             .:-++++-:.  .:-++++-:.        </tspan>
+      <tspan x="0" y="315">           .-++++++++++..++++++++++-.      </tspan>
+      <tspan x="0" y="335">           .++++++++++++++++++++++++.      </tspan>
+      <tspan x="0" y="355">            .++++++++++++++++++++++.       </tspan>
+      <tspan x="0" y="375">              .++++++++++++++++++.         </tspan>
+      <tspan x="0" y="395">                .++++++++++++++.           </tspan>
+      <tspan x="0" y="415">                  .++++++++++.             </tspan>
+      <tspan x="0" y="435">                    .++++++.               </tspan>
+      <tspan x="0" y="455">                      .++.                 </tspan>
+    </text>
+  </g>
+
+  <!-- Right Column: System Spec Telemetry -->
+  <g transform="translate(470, 45)">
+    <!-- Terminal User Prompt -->
+    <text x="0" y="25" class="header">AdityaRanjanSatapathy@system-core</text>
+    <text x="0" y="45" class="divider">------------------------------------------------------------------------</text>
+
+    <!-- Bio / Info -->
+    <text x="0" y="75">
+      <tspan class="key">. Subject</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">Aditya Ranjan Satapathy</tspan>
+    </text>
+    <text x="0" y="98">
+      <tspan class="key">. Role</tspan><tspan class="dots"> ................................ </tspan><tspan class="value">Full Stack Dev ➔ Backend &amp; AI/ML</tspan>
+    </text>
+    <text x="0" y="121">
+      <tspan class="key">. Education</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">3rd Year B.Tech • GIET</tspan>
+    </text>
+    <text x="0" y="144">
+      <tspan class="key">. Status</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">Building | Learning | Shipping</tspan>
+    </text>
+    <text x="0" y="167">
+      <tspan class="key">. Toolchain</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">VS Code, Git, Docker, Android Studio</tspan>
+    </text>
+
+    <!-- Stack Section -->
+    <text x="0" y="202">
+      <tspan class="key">. Core.Lang</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">C++, Java, Python, JavaScript, TypeScript</tspan>
+    </text>
+    <text x="0" y="225">
+      <tspan class="key">. Core.Backend</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">Node.js, Next.js, REST APIs, FastAPI</tspan>
+    </text>
+    <text x="0" y="248">
+      <tspan class="key">. Core.AI/ML</tspan><tspan class="dots"> .......................... </tspan><tspan class="value">TensorFlow, Scikit-Learn, PyTorch</tspan>
+    </text>
+    <text x="0" y="271">
+      <tspan class="key">. Core.Web</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">React, Next.js, Tailwind CSS</tspan>
+    </text>
+    <text x="0" y="294">
+      <tspan class="key">. Core.Store</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">MySQL, MongoDB, Firebase</tspan>
+    </text>
+    <text x="0" y="317">
+      <tspan class="key">. Core.DevOps</tspan><tspan class="dots"> .......................... </tspan><tspan class="value">Docker, Git &amp; Actions, Linux</tspan>
+    </text>
+
+    <!-- Contacts -->
+    <text x="0" y="347" class="divider">- Contact --------------------------------------------------------------</text>
+    <text x="0" y="375">
+      <tspan class="key">. Grid.Mail</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">adityaranjanwxd@gmail.com</tspan>
+    </text>
+    <text x="0" y="398">
+      <tspan class="key">. Grid.LinkedIn</tspan><tspan class="dots"> ....................... </tspan><tspan class="value">aditya-ranjan-satapathy-a84120340</tspan>
+    </text>
+    <text x="0" y="421">
+      <tspan class="key">. Grid.GitHub</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Myparadox-creator</tspan>
+    </text>
+    <text x="0" y="444">
+      <tspan class="key">. Grid.Twitter</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">@AdityaRanj63937</tspan>
+    </text>
+
+    <!-- Engineering Focus -->
+    <text x="0" y="474" class="divider">- Engineering Focus ----------------------------------------------------</text>
+    <text x="0" y="502">
+      <tspan class="key">. Architecture</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">Scalable Backend Systems &amp; Distributed APIs</tspan>
+    </text>
+  </g>
+</svg>
