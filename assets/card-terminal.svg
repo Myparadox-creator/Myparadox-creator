@@ -1,109 +1,122 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="580" viewBox="0 0 1180 580" font-family="ui-monospace,'SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="14px" role="img" aria-label="Terminal profile card">
   <style>
-    .header   { fill: #ff4d4d; font-weight: bold; font-size: 16px; }
-    .key      { fill: #ef4444; font-weight: 600; }
-    .value    { fill: #f1f5f9; }
-    .dots     { fill: #450a0a; }
-    .divider  { fill: #7f1d1d; }
-    .ascii    { fill: #dc2626; }
-    text, tspan { white-space: pre; }
+    .header      { fill: #ff4d4d; font-weight: bold; font-size: 15px; }
+    .subhead     { fill: #f87171; font-weight: 600; font-size: 13px; }
+    .key         { fill: #ef4444; font-weight: 600; }
+    .value       { fill: #f1f5f9; }
+    .value-bold  { fill: #ffffff; font-weight: bold; }
+    .dots        { fill: #450a0a; }
+    .border-line { fill: #7f1d1d; }
+    .accent      { fill: #dc2626; }
+    .green       { fill: #22c55e; font-weight: bold; }
+    .dim         { fill: #991b1b; }
+    text, tspan  { white-space: pre; }
   </style>
 
-  <!-- Card Background -->
-  <rect width="1180" height="580" fill="#090a0f" rx="16" stroke="#b91c1c" stroke-opacity="0.35" stroke-width="2"/>
+  <!-- Card Background with Subtle Crimson Cyber Border -->
+  <rect width="1180" height="580" fill="#07080c" rx="16" stroke="#b91c1c" stroke-opacity="0.4" stroke-width="2"/>
+  <line x1="435" y1="30" x2="435" y2="550" stroke="#7f1d1d" stroke-opacity="0.3" stroke-dasharray="4,4" stroke-width="1.5"/>
 
-  <!-- Left Column: Cyber Symbol ASCII -->
-  <g transform="translate(45, 45)">
-    <text x="0" y="0" class="ascii" font-size="13px" opacity="0.9" xml:space="preserve">
-      <tspan x="0" y="30">               /$$$$$$  /$$$$$$$   /$$$$$$ </tspan>
-      <tspan x="0" y="46">              /$$__  $$| $$__  $$ /$$__  $$</tspan>
-      <tspan x="0" y="62">     /$$$$$$ | $$  \ $$| $$  \ $$| $$  \__/</tspan>
-      <tspan x="0" y="78">    |____  $$| $$$$$$$$| $$$$$$$/|  $$$$$$ </tspan>
-      <tspan x="0" y="94">     /$$$$$$$| $$__  $$| $$__  $$ \____  $$</tspan>
-      <tspan x="0" y="110">    /$$__  $$| $$  | $$| $$  \ $$ /$$  \ $$</tspan>
-      <tspan x="0" y="126">   |  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$/</tspan>
-      <tspan x="0" y="142">    \_______/|__/  |__/|__/  |__/ \______/ </tspan>
-      <tspan x="0" y="165">    ---------------------------------------</tspan>
-      <tspan x="0" y="185">          [ SYSTEM : RED PROTOCOL ]        </tspan>
-      <tspan x="0" y="205">          [ CORE   : NEURAL BACKEND ]      </tspan>
-      <tspan x="0" y="225">          [ NODE   : ONLINE / VERIFIED ]   </tspan>
-      <tspan x="0" y="245">    ---------------------------------------</tspan>
-      <tspan x="0" y="275">                .::.        .::.           </tspan>
-      <tspan x="0" y="295">             .:-++++-:.  .:-++++-:.        </tspan>
-      <tspan x="0" y="315">           .-++++++++++..++++++++++-.      </tspan>
-      <tspan x="0" y="335">           .++++++++++++++++++++++++.      </tspan>
-      <tspan x="0" y="355">            .++++++++++++++++++++++.       </tspan>
-      <tspan x="0" y="375">              .++++++++++++++++++.         </tspan>
-      <tspan x="0" y="395">                .++++++++++++++.           </tspan>
-      <tspan x="0" y="415">                  .++++++++++.             </tspan>
-      <tspan x="0" y="435">                    .++++++.               </tspan>
-      <tspan x="0" y="455">                      .++.                 </tspan>
+  <!-- Left Column: Hardware & Neural Architecture Telemetry -->
+  <g transform="translate(35, 30)">
+    <text x="0" y="0" font-size="12.5px" xml:space="preserve">
+      <tspan x="0" y="20" class="subhead">┌── [ ARCH : SYSTEM_CORE // 0x7F ] ─────────┐</tspan>
+      <tspan x="0" y="38" class="dim">│  01000001 01000100 01001001 01010100 0101   │</tspan>
+      <tspan x="0" y="56" class="border-line">├───┬─────────────────────────────────────┬─┤</tspan>
+      <tspan x="0" y="74" class="dim">│   │</tspan><tspan class="accent">  ┌─────────────────────────────┐  </tspan><tspan class="dim">│ │</tspan>
+      <tspan x="0" y="92" class="dim">│ D │</tspan><tspan class="accent">  │ [CPU-0]   [NEURAL]   [VMM]  │  </tspan><tspan class="dim">│ B │</tspan>
+      <tspan x="0" y="110" class="dim">│ A │</tspan><tspan class="accent">  ├─────────────────────────────┤  </tspan><tspan class="dim">│ U │</tspan>
+      <tspan x="0" y="128" class="dim">│ E │</tspan><tspan class="accent">  │ REG_EAX : 0x00FF4B2 [LOAD]  │  </tspan><tspan class="dim">│ S │</tspan>
+      <tspan x="0" y="146" class="dim">│ M │</tspan><tspan class="accent">  │ REG_CR0 : PE | PG | ET [OK] │  </tspan><tspan class="dim">│ _ │</tspan>
+      <tspan x="0" y="164" class="dim">│ O │</tspan><tspan class="accent">  │ STACK_P : 0x7FFF5FBFF900    │  </tspan><tspan class="dim">│ I │</tspan>
+      <tspan x="0" y="182" class="dim">│ N │</tspan><tspan class="accent">  │ BUS_CLK : 5.20 GHz [LOCKED] │  </tspan><tspan class="dim">│ / │</tspan>
+      <tspan x="0" y="200" class="dim">│ _ │</tspan><tspan class="accent">  │ THREADS : 16 PARALLEL NODES │  </tspan><tspan class="dim">│ O │</tspan>
+      <tspan x="0" y="218" class="dim">│ 0 │</tspan><tspan class="accent">  └─────────────────────────────┘  </tspan><tspan class="dim">│ │</tspan>
+      <tspan x="0" y="236" class="border-line">├───┴─────────────────────────────────────┴─┤</tspan>
+      <tspan x="0" y="254" class="accent">│  [═══]   [═══]   [═══]   [═══]   [═══]    │</tspan>
+      <tspan x="0" y="272" class="border-line">└───────────────────────────────────────────┘</tspan>
+      
+      <!-- Real-Time Node Status -->
+      <tspan x="0" y="306" class="subhead">┌── [ HARDWARE TELEMETRY &amp; STATUS ] ────────┐</tspan>
+      <tspan x="0" y="328" class="dim">│ </tspan><tspan class="key">> DAEMON_RUN : </tspan><tspan class="green">ONLINE [ACTIVE]</tspan><tspan class="dim">           │</tspan>
+      <tspan x="0" y="348" class="dim">│ </tspan><tspan class="key">> MEMORY_BUS : </tspan><tspan class="value">512-BIT DMA CHANNEL</tspan><tspan class="dim">     │</tspan>
+      <tspan x="0" y="368" class="dim">│ </tspan><tspan class="key">> ENCRYPTION : </tspan><tspan class="value">AES-256 / SHA-512</tspan><tspan class="dim">       │</tspan>
+      <tspan x="0" y="388" class="dim">│ </tspan><tspan class="key">> LATENCY    : </tspan><tspan class="value">0.14ms [ZERO DROPS]</tspan><tspan class="dim">     │</tspan>
+      <tspan x="0" y="408" class="dim">│ </tspan><tspan class="key">> VIRTUALIZE : </tspan><tspan class="value">DOCKER ENGINE / K8S</tspan><tspan class="dim">     │</tspan>
+      <tspan x="0" y="428" class="dim">│ </tspan><tspan class="key">> INTEGRITY  : </tspan><tspan class="green">100% SECURE VERIFIED</tspan><tspan class="dim">    │</tspan>
+      <tspan x="0" y="448" class="border-line">└───────────────────────────────────────────┘</tspan>
+
+      <tspan x="0" y="480" class="dim">      [ SYSTEM_CALL : SYS_EXECUTE_CODE ]    </tspan>
+      <tspan x="0" y="500" class="accent">      [  NODE://MYPARADOX_ARCH_ONLINE  ]    </tspan>
     </text>
   </g>
 
-  <!-- Right Column: System Spec Telemetry -->
-  <g transform="translate(470, 45)">
-    <!-- Terminal User Prompt -->
-    <text x="0" y="25" class="header">AdityaRanjanSatapathy@system-core</text>
-    <text x="0" y="45" class="divider">------------------------------------------------------------------------</text>
+  <!-- Right Column: Developer Identity & Technical Stack -->
+  <g transform="translate(460, 30)">
+    <!-- Terminal Shell Header -->
+    <text x="0" y="20" class="header">root@Myparadox-creator:~$ sysinfo --all --format=strict</text>
+    <text x="0" y="38" class="border-line">-------------------------------------------------------------------------</text>
 
     <!-- Bio / Info -->
-    <text x="0" y="75">
-      <tspan class="key">. Subject</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">Aditya Ranjan Satapathy</tspan>
+    <text x="0" y="68">
+      <tspan class="key">. Identity</tspan><tspan class="dots"> ............................ </tspan><tspan class="value-bold">Aditya Ranjan Satapathy</tspan>
     </text>
-    <text x="0" y="98">
-      <tspan class="key">. Role</tspan><tspan class="dots"> ................................ </tspan><tspan class="value">Full Stack Dev ➔ Backend &amp; AI/ML</tspan>
+    <text x="0" y="91">
+      <tspan class="key">. Engineering Role</tspan><tspan class="dots"> .................... </tspan><tspan class="value">Full Stack Dev ➔ Backend &amp; AI/ML</tspan>
     </text>
-    <text x="0" y="121">
-      <tspan class="key">. Education</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">3rd Year B.Tech • GIET</tspan>
+    <text x="0" y="114">
+      <tspan class="key">. Institution</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">3rd Year B.Tech • GIET</tspan>
     </text>
-    <text x="0" y="144">
-      <tspan class="key">. Status</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">Building | Learning | Shipping</tspan>
+    <text x="0" y="137">
+      <tspan class="key">. Execution Status</tspan><tspan class="dots"> .................... </tspan><tspan class="value">Building | Benchmarking | Shipping</tspan>
     </text>
-    <text x="0" y="167">
-      <tspan class="key">. Toolchain</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">VS Code, Git, Docker, Android Studio</tspan>
-    </text>
-
-    <!-- Stack Section -->
-    <text x="0" y="202">
-      <tspan class="key">. Core.Lang</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">C++, Java, Python, JavaScript, TypeScript</tspan>
-    </text>
-    <text x="0" y="225">
-      <tspan class="key">. Core.Backend</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">Node.js, Next.js, REST APIs, FastAPI</tspan>
-    </text>
-    <text x="0" y="248">
-      <tspan class="key">. Core.AI/ML</tspan><tspan class="dots"> .......................... </tspan><tspan class="value">TensorFlow, Scikit-Learn, PyTorch</tspan>
-    </text>
-    <text x="0" y="271">
-      <tspan class="key">. Core.Web</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">React, Next.js, Tailwind CSS</tspan>
-    </text>
-    <text x="0" y="294">
-      <tspan class="key">. Core.Store</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">MySQL, MongoDB, Firebase</tspan>
-    </text>
-    <text x="0" y="317">
-      <tspan class="key">. Core.DevOps</tspan><tspan class="dots"> .......................... </tspan><tspan class="value">Docker, Git &amp; Actions, Linux</tspan>
+    <text x="0" y="160">
+      <tspan class="key">. Primary IDE &amp; Tools</tspan><tspan class="dots"> ................. </tspan><tspan class="value">VS Code, Git, Docker, Antigravity</tspan>
     </text>
 
-    <!-- Contacts -->
-    <text x="0" y="347" class="divider">- Contact --------------------------------------------------------------</text>
-    <text x="0" y="375">
-      <tspan class="key">. Grid.Mail</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">adityaranjanwxd@gmail.com</tspan>
+    <!-- Tech Stack Specs -->
+    <text x="0" y="195">
+      <tspan class="key">. Core.Languages</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">C++, Java, Python, JavaScript, TypeScript</tspan>
     </text>
-    <text x="0" y="398">
-      <tspan class="key">. Grid.LinkedIn</tspan><tspan class="dots"> ....................... </tspan><tspan class="value">aditya-ranjan-satapathy-a84120340</tspan>
+    <text x="0" y="218">
+      <tspan class="key">. Core.Backend</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">Node.js, Next.js, FastAPI, RESTful APIs</tspan>
     </text>
-    <text x="0" y="421">
-      <tspan class="key">. Grid.GitHub</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Myparadox-creator</tspan>
+    <text x="0" y="241">
+      <tspan class="key">. Core.AI_and_ML</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">TensorFlow, Scikit-Learn, PyTorch, MLOps</tspan>
     </text>
-    <text x="0" y="444">
-      <tspan class="key">. Grid.Twitter</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">@AdityaRanj63937</tspan>
+    <text x="0" y="264">
+      <tspan class="key">. Core.Frontend</tspan><tspan class="dots"> ....................... </tspan><tspan class="value">React, Next.js, Tailwind CSS, HTML5</tspan>
+    </text>
+    <text x="0" y="287">
+      <tspan class="key">. Core.Databases</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">MySQL, MongoDB, Firebase</tspan>
+    </text>
+    <text x="0" y="310">
+      <tspan class="key">. Core.DevOps</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Docker, Linux Systems, GitHub CI/CD</tspan>
     </text>
 
-    <!-- Engineering Focus -->
-    <text x="0" y="474" class="divider">- Engineering Focus ----------------------------------------------------</text>
-    <text x="0" y="502">
-      <tspan class="key">. Architecture</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">Scalable Backend Systems &amp; Distributed APIs</tspan>
+    <!-- Comm Network / Telemetry -->
+    <text x="0" y="340" class="border-line">- Network Interfaces &amp; Endpoints ----------------------------------------</text>
+    <text x="0" y="368">
+      <tspan class="key">. Endpoint.Mail</tspan><tspan class="dots"> ....................... </tspan><tspan class="value">adityaranjanwxd@gmail.com</tspan>
+    </text>
+    <text x="0" y="391">
+      <tspan class="key">. Endpoint.LinkedIn</tspan><tspan class="dots"> ................... </tspan><tspan class="value">aditya-ranjan-satapathy-a84120340</tspan>
+    </text>
+    <text x="0" y="414">
+      <tspan class="key">. Endpoint.GitHub</tspan><tspan class="dots"> ..................... </tspan><tspan class="value">Myparadox-creator</tspan>
+    </text>
+    <text x="0" y="437">
+      <tspan class="key">. Endpoint.Twitter</tspan><tspan class="dots"> .................... </tspan><tspan class="value">@AdityaRanj63937</tspan>
+    </text>
+
+    <!-- Core Directives -->
+    <text x="0" y="467" class="border-line">- Engineering Directives -----------------------------------------------</text>
+    <text x="0" y="495">
+      <tspan class="key">. Core Architecture</tspan><tspan class="dots"> ................... </tspan><tspan class="value">Scalable Distributed Systems &amp; Low-Latency APIs</tspan>
+    </text>
+    <text x="0" y="518">
+      <tspan class="key">. Research Focus</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">Automated Pipelines, Agentic Workflows &amp; AI Infra</tspan>
     </text>
   </g>
 </svg>
