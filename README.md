@@ -146,28 +146,15 @@ collaboration: open source · team projects · hackathons
 
 ---
 
-## 📈 The Numbers
+## 📈The Numbers
 
-<br/>
-
-<div align="center">
-
-  <!-- Top Hero: Terminal Telemetry Card -->
+  <!-- Side-by-Side: Crimson GitHub Stats + Most Used Languages (Fixed Mirror) -->
   <a href="https://github.com/Myparadox-creator">
-    <img src="./assets/card-terminal.svg" width="100%" alt="Aditya Ranjan Satapathy Terminal Spec Card" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Side-by-Side: Crimson GitHub Stats + Most Used Languages -->
-  <a href="https://github.com/Myparadox-creator">
-    <img src="https://github-readme-stats.vercel.app/api?username=Myparadox-creator&show_icons=true&hide_border=true&rank_icon=github&bg_color=090a0f&title_color=ef4444&icon_color=b91c1c&text_color=e2e8f0&ring_color=ef4444&card_width=420" height="180" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Myparadox-creator&show_icons=true&hide_border=true&rank_icon=github&bg_color=090a0f&title_color=ef4444&icon_color=b91c1c&text_color=e2e8f0&ring_color=ef4444&card_width=420" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Myparadox-creator">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myparadox-creator&layout=compact&langs_count=8&hide=html,css,scss&hide_border=true&bg_color=090a0f&title_color=ef4444&text_color=e2e8f0&card_width=330" height="180" alt="Most Used Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Myparadox-creator&layout=compact&langs_count=8&hide=html,css,scss&hide_border=true&bg_color=090a0f&title_color=ef4444&text_color=e2e8f0&card_width=330" height="180" alt="Most Used Languages" />
   </a>
-
-  <br/><br/>
 
   <!-- Center: Crimson Streak Stats Card -->
   <a href="https://github.com/Myparadox-creator">
