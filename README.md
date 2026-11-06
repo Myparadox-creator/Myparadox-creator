@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:8b0000,100:b91c1c&height=200&section=header&text=%20Software%20Developer&fontSize=32&fontColor=ffffff" width="100%" alt="Header Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:8b0000,100:b91c1c&height=200&section=header&fontSize=32&fontColor=ffffff" width="100%" alt="Header Wave"/>
 
 <div align="center">
 
